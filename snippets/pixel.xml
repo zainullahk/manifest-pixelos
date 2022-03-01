@@ -11,7 +11,7 @@
           revision="twelve" />
       
   <remote name="pixelos"
-          fetch="https://github.com/PixelOS-Pixelish"
+          fetch="https://github.com/zainullahk/"
           revision="twelve" />
 
   <remote name="pixel-gitlab-self-hosted"
